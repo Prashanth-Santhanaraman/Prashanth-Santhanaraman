@@ -1,4 +1,4 @@
-[![MasterHead](https://www.shootdartsolutions.com/img/service/web-design.gif)](https://example.com)
+[![MasterHead](https://www.shootdartsolutions.com/img/service/web-design.gif)]()
 <h1 align="center">Hi 👋, I'm Prashanth</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width=400 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
