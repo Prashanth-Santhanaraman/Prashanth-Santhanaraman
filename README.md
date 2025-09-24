@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT**
+- 💬 Ask me about **HTML,CSS, MERN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
